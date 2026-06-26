@@ -10,10 +10,4 @@ folium==0.16.0
 streamlit-folium==0.20.0
 geopy==2.4.1
 streamlit-js-eval==0.1.7
-malaya==5.0
-tensorflow-cpu==2.13.0
-protobuf==3.20.3
-torch==2.1.0
-transformers==4.35.0
-accelerate==0.25.0
 git+https://github.com/malaysia-ai/malaya.git@1a5c7951bd6962a75b210cd1400338da673fe938#egg=malaya
